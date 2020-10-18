@@ -1,14 +1,16 @@
 # 01 HTML CSS Git: Code Refactor
 ## Horiseon Marketing Agency
 
-Horiseon's webpage is a dummy webpage for beginner coders, so they can learn:
+Horiseon's webpage is a dummy webpage for beginner coders. 
 
-- accessibility standards (semantics)
-- how to consolidate CSS
-- logical HTML structure and elements
--  [GitHub](https://github.com/) depoloyment
--  how to debug code
-- naming conventions
+After completing the assignment students should be able to:
+
+- meet accessibility standards (semantics)
+- consolidate CSS
+- use logical HTML structure and elements
+- understand [GitHub](https://github.com/) and deploy a live page
+- debug code
+- proper naming conventions
 
 
 ## Mock-Up
