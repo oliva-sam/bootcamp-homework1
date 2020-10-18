@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Top Ribbon of Webpage*/
+/* Top Ribbon Style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +40,7 @@ header li {
 }
 
 
-/* White Hyperlinks*/
+/* White Hyperlinks */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Billboard Picture Style */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +60,7 @@ p {
     background-position: center;
 }
 
+/* Main Content Style */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +77,7 @@ main {
     margin-left: 20px;
 }
 
+/* Sidebar Style */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -124,6 +127,7 @@ aside img {
     font-size: 36px;
 }
 
+/* Footer Style */
 footer {
     padding: 30px;
     clear: both;
