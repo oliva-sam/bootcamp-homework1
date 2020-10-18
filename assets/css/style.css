@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Top Ribbon of Webpage*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,6 +40,7 @@ header li {
 }
 
 
+/* White Hyperlinks*/
 a {
     color: #ffffff;
     text-decoration: none;
